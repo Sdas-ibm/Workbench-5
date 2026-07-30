@@ -1,0 +1,25 @@
+[
+ {
+  "table":"FDT_EXPR_3001S",
+  "data":
+  [
+   {
+    "ID":"02000827F4BB1FD1A381C5741D0D0000",
+    "VERSION":0,
+    "POS":1,
+    "TF_TYPE":"T",
+    "DOBJ_TARGET":"",
+    "DOBJ_SOURCE":"",
+    "EXPRESSION":"02000827F4BB1FD1A381B17BBB828000",
+    "ACTION":"",
+    "RULE_ID":"",
+    "ELEMENT_TYPE":"",
+    "VALUE":"",
+    "SUPPLEMENT":"",
+    "NONE_AP":"",
+    "CHANGE_MODE":"",
+    "INITIALIZE":""
+   }
+  ]
+ }
+]

@@ -1,0 +1,38 @@
+[
+ {
+  "table":"FDT_ADMN_0103S",
+  "data":
+  [
+   {
+    "ID":"02000827F4BB1FD1A3816B31CA82E000",
+    "TEXT":"Tax Rates",
+    "SHORT_TEXT":"Tax Rates"
+   },
+   {
+    "ID":"02000827F4BB1FD1A3817507ED9B4000",
+    "TEXT":"Function Tax Type",
+    "SHORT_TEXT":"Function Tax Type"
+   },
+   {
+    "ID":"02000827F4BB1FD1A381829717F4C000",
+    "TEXT":"Case in Rule2",
+    "SHORT_TEXT":"Rule2"
+   },
+   {
+    "ID":"02000827F4BB1FD1A381A3C03B484000",
+    "TEXT":"Tax Type",
+    "SHORT_TEXT":"Tax Type"
+   },
+   {
+    "ID":"02000827F4BB1FD1A381B17BBB828000",
+    "TEXT":"Case",
+    "SHORT_TEXT":"Case"
+   },
+   {
+    "ID":"02000827F4BB1FD1A381C5741D0D0000",
+    "TEXT":"",
+    "SHORT_TEXT":""
+   }
+  ]
+ }
+]

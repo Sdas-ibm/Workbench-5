@@ -1,0 +1,26 @@
+[
+ {
+  "table":"FDT_DOBJ_0010S",
+  "data":
+  [
+   {
+    "ID":"02000827F4BB1FD1A3817507ED9B6000",
+    "VERSION":0,
+    "TYPENAME":"MWART",
+    "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A3817507ED9B8000",
+    "VERSION":0,
+    "TYPENAME":"BUKRS",
+    "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A3817507ED9BA000",
+    "VERSION":0,
+    "TYPENAME":"LAND1",
+    "DB_BOUND":""
+   }
+  ]
+ }
+]

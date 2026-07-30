@@ -1,0 +1,14 @@
+[
+ {
+  "table":"FDT_ADMN_0101S",
+  "data":
+  [
+   {
+    "ID":"02000827F4BB1FD1A3817507ED9BA000",
+    "LANGU":"E",
+    "TEXT":"Country",
+    "SHORT_TEXT":"Country"
+   }
+  ]
+ }
+]
