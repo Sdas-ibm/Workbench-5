@@ -1,0 +1,60 @@
+[
+ {
+  "table":"/IWBEP/I_MGW_OHD",
+  "data":
+  [
+   {
+    "TECHNICAL_NAME":"ZTRM_TAX_GCTS_MDL",
+    "VERSION":1,
+    "CLASS_NAME":"ZCL_ZTRM_TAX_GCTS_MPC_EXT",
+    "CREATED_BY":"SDAS",
+    "CHANGED_BY":"",
+    "CREATED_TIMESTMP":"+020260730161022",
+    "CHANGED_TIMESTMP":"0",
+    "ABAP_LANGUAGE_VERSION":""
+   }
+  ]
+ },
+ {
+  "table":"/IWBEP/I_MGW_OHT",
+  "data":
+  [
+   {
+    "TECHNICAL_NAME":"ZTRM_TAX_GCTS_MDL",
+    "VERSION":1,
+    "LANGUAGE":"E",
+    "DESCRIPTION":"gCTS Tax"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"IWMO",
+    "OBJ_NAME":"ZTRM_TAX_GCTS_MDL               0001",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SDAS",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGT5",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2026-07-30",
+    "CHECK_DATE":"2026-07-30",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
