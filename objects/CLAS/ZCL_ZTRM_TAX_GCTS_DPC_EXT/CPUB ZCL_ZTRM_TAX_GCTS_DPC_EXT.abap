@@ -4,3 +4,6 @@ class ZCL_ZTRM_TAX_GCTS_DPC_EXT definition
   create public .
 
 public section.
+
+  methods /IWBEP/IF_MGW_APPL_SRV_RUNTIME~GET_ENTITYSET
+    redefinition .

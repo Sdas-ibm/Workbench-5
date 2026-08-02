@@ -9,6 +9,7 @@ public section.
   begin of TS_TAXRECORD,
      CONTRACTID type string,
      CUSTOMERID type string,
+     CONTRACTOBTYP type string,
      TAXTYPE type string,
   end of TS_TAXRECORD .
   types:

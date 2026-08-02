@@ -101,6 +101,22 @@
   ]
  },
  {
+  "table":"SEOREDEF",
+  "data":
+  [
+   {
+    "CLSNAME":"ZCL_ZTRM_TAX_GCTS_DPC_EXT",
+    "REFCLSNAME":"ZCL_ZTRM_TAX_GCTS_DPC",
+    "VERSION":1,
+    "MTDNAME":"/IWBEP/IF_MGW_APPL_SRV_RUNTIME~GET_ENTITYSET",
+    "MTDABSTRCT":"",
+    "MTDFINAL":"",
+    "ATTVALUE":"",
+    "EXPOSURE":2
+   }
+  ]
+ },
+ {
   "table":"TADIR",
   "data":
   [
@@ -138,6 +154,12 @@
     "CLASSNAME":"ZCL_ZTRM_TAX_GCTS_DPC_EXT",
     "METHODINDX":0,
     "METHODNAME":" ",
+    "FLAGS":0
+   },
+   {
+    "CLASSNAME":"ZCL_ZTRM_TAX_GCTS_DPC_EXT",
+    "METHODINDX":1,
+    "METHODNAME":"/IWBEP/IF_MGW_APPL_SRV_RUNTIME~GET_ENTITYSET",
     "FLAGS":0
    }
   ]
@@ -187,7 +209,19 @@
     "UCCHECK":"X"
    },
    {
+    "NAME":"ZCL_ZTRM_TAX_GCTS_DPC_EXT=====CM001",
+    "VARCL":"X",
+    "DBAPL":"S",
+    "DBNA":"D$",
+    "SUBC":"I",
+    "APPL":"S",
+    "FIXPT":"X",
+    "LDBNAME":"D$S",
+    "UCCHECK":"X"
+   },
+   {
     "NAME":"ZCL_ZTRM_TAX_GCTS_DPC_EXT=====CO",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
@@ -199,6 +233,7 @@
    {
     "NAME":"ZCL_ZTRM_TAX_GCTS_DPC_EXT=====CP",
     "EDTX":"X",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"K",
@@ -219,6 +254,7 @@
    },
    {
     "NAME":"ZCL_ZTRM_TAX_GCTS_DPC_EXT=====CU",
+    "VARCL":"X",
     "DBAPL":"S",
     "DBNA":"D$",
     "SUBC":"I",
