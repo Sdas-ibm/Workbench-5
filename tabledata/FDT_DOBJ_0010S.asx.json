@@ -20,6 +20,36 @@
     "VERSION":0,
     "TYPENAME":"LAND1",
     "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A3C7D1B573910000",
+    "VERSION":0,
+    "TYPENAME":"MWART",
+    "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A3C7E7FB87AF4000",
+    "VERSION":0,
+    "TYPENAME":"ZSTRM_TAX_CALC",
+    "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A3C804611DC0C000",
+    "VERSION":0,
+    "TYPENAME":"MWART",
+    "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A3C804611DC0E000",
+    "VERSION":0,
+    "TYPENAME":"MWART",
+    "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A3E3CC21C3654000",
+    "VERSION":0,
+    "TYPENAME":"MWART",
+    "DB_BOUND":""
    }
   ]
  }
