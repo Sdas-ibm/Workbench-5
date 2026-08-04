@@ -34,6 +34,22 @@
     "EXIT_RULESET":"",
     "COND_RANGE_P":"",
     "RESTART_OPTION":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A4859876C57D6000",
+    "VERSION":0,
+    "POS":1,
+    "SWITCH":"X",
+    "VALID_FROM":"0",
+    "VALID_TO":"0",
+    "FUNCTION_ID":"",
+    "CONDITION_ID":"",
+    "RULE_ID":"02000827F4BB1FD1A4859876C57D8000",
+    "EXPRESSION_ID":"",
+    "EXPR_CHANGE_MODE":"",
+    "EXIT_RULESET":"",
+    "COND_RANGE_P":"",
+    "RESTART_OPTION":""
    }
   ]
  }

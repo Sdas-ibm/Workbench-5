@@ -62,6 +62,36 @@
     "ID":"02000827F4BB1FD1A4804AAAEB12A000",
     "TEXT":"Tax Type",
     "SHORT_TEXT":"Tax Type"
+   },
+   {
+    "ID":"02000827F4BB1FD1A4859735246FE000",
+    "TEXT":"Tax Rates",
+    "SHORT_TEXT":"Tax Rates"
+   },
+   {
+    "ID":"02000827F4BB1FD1A4859876C57CE000",
+    "TEXT":"Function Tax Type",
+    "SHORT_TEXT":"Function Tax Type"
+   },
+   {
+    "ID":"02000827F4BB1FD1A4859876C57D6000",
+    "TEXT":"Case in Ruleset",
+    "SHORT_TEXT":"RULE2"
+   },
+   {
+    "ID":"02000827F4BB1FD1A4859876C57D8000",
+    "TEXT":"",
+    "SHORT_TEXT":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A4859876C57DA000",
+    "TEXT":"case",
+    "SHORT_TEXT":"case"
+   },
+   {
+    "ID":"02000827F4BB1FD1A4859876C57DC000",
+    "TEXT":"Tax Type",
+    "SHORT_TEXT":"Tax Type"
    }
   ]
  }

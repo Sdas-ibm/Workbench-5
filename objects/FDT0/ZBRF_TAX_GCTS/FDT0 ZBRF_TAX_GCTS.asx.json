@@ -1,0 +1,43 @@
+[
+ {
+  "table":"FDT_APPL_TADIR",
+  "data":
+  [
+   {
+    "NAME":"ZBRF_TAX_GCTS",
+    "TABLE_TYPE":"S",
+    "ID":"02000827F4BB1FD1A4859735246FE000"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"FDT0",
+    "OBJ_NAME":"ZBRF_TAX_GCTS",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SDAS",
+    "SRCDEP":"",
+    "DEVCLASS":"ZGT5",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"",
+    "CRELEASE":"",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2026-08-04",
+    "CHECK_DATE":"2026-08-04",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
