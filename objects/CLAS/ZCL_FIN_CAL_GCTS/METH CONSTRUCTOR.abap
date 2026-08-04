@@ -3,4 +3,5 @@
     int_rate  = iv_int_rate.
     years     = iv_year.
     freq      = iv_freq.
+    currency      = iv_currency.
   ENDMETHOD.

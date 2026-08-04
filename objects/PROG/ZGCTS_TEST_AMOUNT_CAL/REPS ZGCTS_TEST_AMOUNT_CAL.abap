@@ -18,4 +18,5 @@ CREATE OBJECT lo_finance
 lv_amount = lo_finance->calculate( ).
 
 WRITE:
-       / 'Maturity Amount:', lv_amount.
+       / 'Maturity Amount:', lv_amount,
+       / lo_finance->currency.
