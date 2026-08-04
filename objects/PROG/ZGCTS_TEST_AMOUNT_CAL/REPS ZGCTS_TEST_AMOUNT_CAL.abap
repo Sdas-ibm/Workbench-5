@@ -19,3 +19,4 @@ lv_amount = lo_finance->calculate( ).
 
 WRITE:
        / 'Maturity Amount:', lv_amount.
+*       / lo_finance->currency.
