@@ -1,28 +1,26 @@
-CLASS zcl_fin_cal_gcts DEFINITION
-  PUBLIC
-  FINAL
-  CREATE PUBLIC .
+class ZCL_FIN_CAL_GCTS definition
+  public
+  final
+  create public .
 
-  PUBLIC SECTION.
+public section.
 
-    TYPES:
-      ty_amount TYPE p LENGTH 8 DECIMALS 2 .
-    TYPES:
-      ty_rate   TYPE p LENGTH 8 DECIMALS 4 .
+  types:
+    ty_amount TYPE p LENGTH 8 DECIMALS 2 .
+  types:
+    ty_rate   TYPE p LENGTH 8 DECIMALS 4 .
 
-    DATA principal TYPE ty_amount .
-    DATA int_rate TYPE ty_rate .
-    DATA years TYPE int2 .
-    DATA freq TYPE int1 .
-    DATA currency      TYPE waers.
+  data PRINCIPAL type TY_AMOUNT .
+  data INT_RATE type TY_RATE .
+  data YEARS type INT2 .
+  data FREQ type INT1 .
 
-    METHODS calculate
-      RETURNING
-        VALUE(ev_amount) TYPE fitdqa_trate .
-    METHODS constructor
-      IMPORTING
-        !iv_principal TYPE ty_amount
-        !iv_int_rate  TYPE ty_rate
-        !iv_year      TYPE int2 OPTIONAL
-        !iv_freq      TYPE int1 OPTIONAL
-        !iv_currency  TYPE waers OPTIONAl .
+  methods CALCULATE
+    returning
+      value(EV_AMOUNT) type FITDQA_TRATE .
+  methods CONSTRUCTOR
+    importing
+      !IV_PRINCIPAL type TY_AMOUNT optional
+      !IV_INT_RATE type TY_RATE optional.
+*      !IV_YEAR type INT2 optional
+*      !IV_FREQ type INT1 optional .
