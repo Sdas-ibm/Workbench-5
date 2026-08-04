@@ -686,14 +686,6 @@
    {
     "CLSNAME":"ZCL_FIN_CAL_GCTS",
     "CMPNAME":"CONSTRUCTOR",
-    "SCONAME":"IV_FREQ",
-    "CMPTYPE":1,
-    "MTDTYPE":2,
-    "SCOTYPE":0
-   },
-   {
-    "CLSNAME":"ZCL_FIN_CAL_GCTS",
-    "CMPNAME":"CONSTRUCTOR",
     "SCONAME":"IV_INT_RATE",
     "CMPTYPE":1,
     "MTDTYPE":2,
@@ -703,14 +695,6 @@
     "CLSNAME":"ZCL_FIN_CAL_GCTS",
     "CMPNAME":"CONSTRUCTOR",
     "SCONAME":"IV_PRINCIPAL",
-    "CMPTYPE":1,
-    "MTDTYPE":2,
-    "SCOTYPE":0
-   },
-   {
-    "CLSNAME":"ZCL_FIN_CAL_GCTS",
-    "CMPNAME":"CONSTRUCTOR",
-    "SCONAME":"IV_YEAR",
     "CMPTYPE":1,
     "MTDTYPE":2,
     "SCOTYPE":0
@@ -744,33 +728,6 @@
     "SRCCOLUMN2":0,
     "PARVALUE":"",
     "PAROPTIONL":"",
-    "PARPREFERD":"",
-    "EXCDECLTYP":0,
-    "IS_RESUMABLE":""
-   },
-   {
-    "CLSNAME":"ZCL_FIN_CAL_GCTS",
-    "CMPNAME":"CONSTRUCTOR",
-    "SCONAME":"IV_FREQ",
-    "VERSION":1,
-    "EDITORDER":4,
-    "LOCKED":"",
-    "DISPID":0,
-    "AUTHOR":"SDAS",
-    "CREATEDON":"2026-08-04",
-    "CHANGEDBY":"SDAS",
-    "CHANGEDON":"2026-08-04",
-    "PARDECLTYP":0,
-    "PARPASSTYP":1,
-    "TYPTYPE":1,
-    "TYPE":"INT1",
-    "TABLEOF":"",
-    "SRCROW1":0,
-    "SRCCOLUMN1":0,
-    "SRCROW2":0,
-    "SRCCOLUMN2":0,
-    "PARVALUE":"",
-    "PAROPTIONL":"X",
     "PARPREFERD":"",
     "EXCDECLTYP":0,
     "IS_RESUMABLE":""
@@ -828,33 +785,6 @@
     "PARPREFERD":"",
     "EXCDECLTYP":0,
     "IS_RESUMABLE":""
-   },
-   {
-    "CLSNAME":"ZCL_FIN_CAL_GCTS",
-    "CMPNAME":"CONSTRUCTOR",
-    "SCONAME":"IV_YEAR",
-    "VERSION":1,
-    "EDITORDER":3,
-    "LOCKED":"",
-    "DISPID":0,
-    "AUTHOR":"SDAS",
-    "CREATEDON":"2026-08-04",
-    "CHANGEDBY":"SDAS",
-    "CHANGEDON":"2026-08-04",
-    "PARDECLTYP":0,
-    "PARPASSTYP":1,
-    "TYPTYPE":1,
-    "TYPE":"INT2",
-    "TABLEOF":"",
-    "SRCROW1":0,
-    "SRCCOLUMN1":0,
-    "SRCROW2":0,
-    "SRCCOLUMN2":0,
-    "PARVALUE":"",
-    "PAROPTIONL":"X",
-    "PARPREFERD":"",
-    "EXCDECLTYP":0,
-    "IS_RESUMABLE":""
    }
   ]
  },
@@ -872,13 +802,6 @@
    {
     "CLSNAME":"ZCL_FIN_CAL_GCTS",
     "CMPNAME":"CONSTRUCTOR",
-    "SCONAME":"IV_FREQ",
-    "LANGU":"E",
-    "DESCRIPT":"1 Byte Unsigned Integer"
-   },
-   {
-    "CLSNAME":"ZCL_FIN_CAL_GCTS",
-    "CMPNAME":"CONSTRUCTOR",
     "SCONAME":"IV_INT_RATE",
     "LANGU":"E",
     "DESCRIPT":"Tax Rate"
@@ -889,13 +812,6 @@
     "SCONAME":"IV_PRINCIPAL",
     "LANGU":"E",
     "DESCRIPT":"Income Tax Rate"
-   },
-   {
-    "CLSNAME":"ZCL_FIN_CAL_GCTS",
-    "CMPNAME":"CONSTRUCTOR",
-    "SCONAME":"IV_YEAR",
-    "LANGU":"E",
-    "DESCRIPT":"2 Byte Signed Integer"
    }
   ]
  },
