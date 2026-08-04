@@ -32,6 +32,36 @@
     "NONE_APR":"X",
     "TEST_PARAMETER":"",
     "RETURN_PARAMETER":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A4804AAAEB128000",
+    "VERSION":0,
+    "WHEN_POSITION":1,
+    "ELEMENT_TYPET":"T",
+    "VALUET":"8000",
+    "SUPPLEMENTT":"",
+    "NONE_APT":"X",
+    "ELEMENT_TYPER":"T",
+    "VALUER":"V",
+    "SUPPLEMENTR":"",
+    "NONE_APR":"X",
+    "TEST_PARAMETER":"",
+    "RETURN_PARAMETER":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A4804AAAEB128000",
+    "VERSION":0,
+    "WHEN_POSITION":2,
+    "ELEMENT_TYPET":"T",
+    "VALUET":"6000",
+    "SUPPLEMENTT":"",
+    "NONE_APT":"X",
+    "ELEMENT_TYPER":"T",
+    "VALUER":"V",
+    "SUPPLEMENTR":"",
+    "NONE_APR":"X",
+    "TEST_PARAMETER":"",
+    "RETURN_PARAMETER":""
    }
   ]
  }

@@ -20,6 +20,12 @@
     "LANGU":"E",
     "TEXT":"Tax Calculation",
     "SHORT_TEXT":"Tax Calculation"
+   },
+   {
+    "ID":"02000827F4BB1FD1A4804AAAEB122000",
+    "LANGU":"E",
+    "TEXT":"Country",
+    "SHORT_TEXT":"Country"
    }
   ]
  }

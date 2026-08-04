@@ -15,6 +15,19 @@
     "SELECT_1200":"",
     "COND_RANGE_P":"",
     "SELECT_0001":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A4804AAAEB124000",
+    "VERSION":0,
+    "FUNCTION_ID":"02000827F4BB1FD1A4804AAAEB11C000",
+    "CONDITION_ID":"",
+    "SWITCH":"X",
+    "PRIORITY":0,
+    "OPTIMIZED_SELECT":"X",
+    "SELECT_1100":"",
+    "SELECT_1200":"",
+    "COND_RANGE_P":"",
+    "SELECT_0001":""
    }
   ]
  }

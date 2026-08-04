@@ -19,6 +19,23 @@
     "NONE_AP":"",
     "CHANGE_MODE":"",
     "INITIALIZE":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A4804AAAEB126000",
+    "VERSION":0,
+    "POS":1,
+    "TF_TYPE":"T",
+    "DOBJ_TARGET":"",
+    "DOBJ_SOURCE":"",
+    "EXPRESSION":"02000827F4BB1FD1A4804AAAEB128000",
+    "ACTION":"",
+    "RULE_ID":"",
+    "ELEMENT_TYPE":"",
+    "VALUE":"",
+    "SUPPLEMENT":"",
+    "NONE_AP":"",
+    "CHANGE_MODE":"",
+    "INITIALIZE":""
    }
   ]
  }

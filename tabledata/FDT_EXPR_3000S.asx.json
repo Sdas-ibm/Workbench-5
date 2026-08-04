@@ -11,6 +11,15 @@
     "FALSE_ACTION":"",
     "COND_RANGE_P":"",
     "SELECT_3002":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A4804AAAEB126000",
+    "VERSION":0,
+    "BOOLE_CONDITION":"",
+    "TRUE_ACTION":"",
+    "FALSE_ACTION":"",
+    "COND_RANGE_P":"",
+    "SELECT_3002":""
    }
   ]
  }

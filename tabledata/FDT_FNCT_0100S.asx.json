@@ -18,6 +18,22 @@
     "DB_DATA_SOURCE":"",
     "DB_OUTPUT":"",
     "SELECT_0150":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A4804AAAEB11C000",
+    "VERSION":0,
+    "CONTEXT_CLASS":"",
+    "EXPRESSION_ID":"",
+    "FILTER_ID":"",
+    "RESULT_DOBJ_ID":"02000827F4BB1FD1A4804AAAEB11E000",
+    "TRACE_MODE":"",
+    "FUNCTION_MODE":2,
+    "NEW_CONTEXT":"X",
+    "DB_VOCABULARY_ID":"",
+    "FILTER_JSON":"",
+    "DB_DATA_SOURCE":"",
+    "DB_OUTPUT":"",
+    "SELECT_0150":""
    }
   ]
  }
