@@ -1,4 +1,7 @@
-  method /IWBEP/IF_MGW_APPL_SRV_RUNTIME~GET_ENTITYSET.
+  METHOD /iwbep/if_mgw_appl_srv_runtime~get_entityset.
+
+    DATA:
+    lo_msg_container TYPE REF TO /iwbep/if_message_container. "Message Container for Error Handling
 **TRY.
 *CALL METHOD SUPER->/IWBEP/IF_MGW_APPL_SRV_RUNTIME~GET_ENTITYSET
 **  EXPORTING
@@ -20,4 +23,4 @@
 **  CATCH /iwbep/cx_mgw_busi_exception.
 **  CATCH /iwbep/cx_mgw_tech_exception.
 **ENDTRY.
-  endmethod.
+  ENDMETHOD.

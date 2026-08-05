@@ -10,6 +10,7 @@ public section.
      CONTRACTID type string,
      CUSTOMERID type string,
      CONTRACTOBTYP type string,
+     UIN type string,
      TAXTYPE type string,
   end of TS_TAXRECORD .
   types:
