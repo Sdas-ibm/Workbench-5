@@ -86,6 +86,24 @@
     "VERSION":0,
     "TYPENAME":"LAND1",
     "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A48FFFFFF22A6000",
+    "VERSION":0,
+    "TYPENAME":"MWART",
+    "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A48FFFFFF22A8000",
+    "VERSION":0,
+    "TYPENAME":"BUKRS",
+    "DB_BOUND":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A48FFFFFF22AA000",
+    "VERSION":0,
+    "TYPENAME":"LAND1",
+    "DB_BOUND":""
    }
   ]
  }

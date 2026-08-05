@@ -47,6 +47,21 @@
     "CALL_TYPE":"S",
     "DBSCHEMA":"",
     "DBPROCEDURE":""
+   },
+   {
+    "ID":"02000827F4BB1FD1A48FFFFFF22B2000",
+    "VERSION":0,
+    "CLASS":"ZCL_GET_TAXTYPE_GCTS",
+    "OPTIMIZED_SELECT":"X",
+    "SELECT_1505":"",
+    "METHOD":"SET_TAXTYPE",
+    "INTERFACE":"",
+    "FUNCTION_MODULE":"",
+    "SELECT_1506":"",
+    "SELECT_1507":"",
+    "CALL_TYPE":"S",
+    "DBSCHEMA":"",
+    "DBPROCEDURE":""
    }
   ]
  }
