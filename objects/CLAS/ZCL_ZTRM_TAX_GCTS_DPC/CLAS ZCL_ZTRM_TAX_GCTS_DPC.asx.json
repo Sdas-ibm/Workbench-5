@@ -17,7 +17,11 @@
    {
     "CLSNAME":"ZCL_ZTRM_TAX_GCTS_DPC",
     "CLSTYPE":0,
+<<<<<<< HEAD
     "UUID":"AgAIJ/S7H9Gkkq0+mPDAAA==",
+=======
+    "UUID":"AgAIJ/S7H9GkktOm8XBAAA==",
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
     "REMOTE":""
    }
   ]

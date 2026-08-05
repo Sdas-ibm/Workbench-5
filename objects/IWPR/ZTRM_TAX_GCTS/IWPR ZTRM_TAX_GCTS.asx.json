@@ -26,7 +26,11 @@
     "CREATION_USER_ID":"SDAS",
     "CREATION_TIME":"+20260730161018.4617440",
     "LAST_CHG_USER_ID":"SDAS",
+<<<<<<< HEAD
     "LAST_CHG_TIME":"+20260805081802.8930060",
+=======
+    "LAST_CHG_TIME":"+20260805082638.4063970",
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
     "NAME":"ZCL_ZTRM_TAX_GCTS_MPC",
     "PGMID":"R3TR",
     "TROBJ_TYPE":"CLAS",
@@ -41,7 +45,11 @@
     "CREATION_USER_ID":"SDAS",
     "CREATION_TIME":"+20260730161018.4617670",
     "LAST_CHG_USER_ID":"SDAS",
+<<<<<<< HEAD
     "LAST_CHG_TIME":"+20260805081802.8930130",
+=======
+    "LAST_CHG_TIME":"+20260805082638.4064040",
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
     "NAME":"ZCL_ZTRM_TAX_GCTS_MPC_EXT",
     "PGMID":"R3TR",
     "TROBJ_TYPE":"CLAS",
@@ -322,7 +330,11 @@
    },
    {
     "PROJECT":"ZTRM_TAX_GCTS",
+<<<<<<< HEAD
     "NODE_UUID":"AgAIJ/S7H9GkkqzxKLHAAA==",
+=======
+    "NODE_UUID":"AgAIJ/S7H9GkktFwp4EAAA==",
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
     "TYPE":"",
     "NAME":""
    }
@@ -420,8 +432,13 @@
     "CREATION_USER_ID":"SDAS",
     "CREATION_TIME":"+20260730160900.3353210",
     "LAST_CHG_USER_ID":"SDAS",
+<<<<<<< HEAD
     "LAST_CHG_TIME":"+20260805081806.4875500",
     "LAST_CHG_STATE":"AgAIJ/S7H9Gkkq1tuS3AAA==",
+=======
+    "LAST_CHG_TIME":"+20260805082641.9806200",
+    "LAST_CHG_STATE":"AgAIJ/S7H9GkktPVjTEAAA==",
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
     "PLUGIN":"/IWBEP/GEN",
     "STRAT_NAME":"0001",
     "STRAT_VERSION":"0001",
@@ -930,6 +947,7 @@
    },
    {
     "PROJECT":"ZTRM_TAX_GCTS",
+<<<<<<< HEAD
     "NODE_UUID":"AgAIJ/S7H9GkkqzxKLHAAA==",
     "PARENT_UUID":"AgAIJ/S7H9GjhAbKMB/AAA==",
     "NAME":"UIN",
@@ -960,6 +978,38 @@
     "REF_OBJNAME":"",
     "REF_KEY":"",
     "ABAP_FIELD":"UIN",
+=======
+    "NODE_UUID":"AgAIJ/S7H9GkktFwp4EAAA==",
+    "PARENT_UUID":"AgAIJ/S7H9GjhAbKMB/AAA==",
+    "NAME":"BPext",
+    "IS_KEY":"",
+    "AS_AUTHOR":"",
+    "AS_ETAG":"",
+    "AS_PUBLISHED":"",
+    "AS_TITLE":"",
+    "AS_UPDATED":"",
+    "CREATABLE":"",
+    "FILTERABLE":"",
+    "FIXED_LENGTH":"",
+    "MAX_LENGTH":0,
+    "PROP_PRECISION":0,
+    "REQUIRES_FILTER":"",
+    "SCALE":0,
+    "SEMANTICS":"",
+    "SORTABLE":"",
+    "EDM_CORE_TYPE":"Edm.String",
+    "COMPLEX_TYPE":"",
+    "UPDATABLE":"",
+    "IS_NULLABLE":"",
+    "IS_UNICODE":"",
+    "IS_COLLECTION":"",
+    "UNIT_PROP":"",
+    "FC_TARGET_PATH":"",
+    "REF_TYPE":"T",
+    "REF_OBJNAME":"",
+    "REF_KEY":"",
+    "ABAP_FIELD":"BPEXT",
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
     "DELETABLE":"",
     "TYPE_NAME":"",
     "TYPE_KIND":"",
@@ -1052,7 +1102,11 @@
    {
     "SYLANGU":"E",
     "PROJECT":"ZTRM_TAX_GCTS",
+<<<<<<< HEAD
     "NODE_UUID":"AgAIJ/S7H9GkkqzxKLHAAA==",
+=======
+    "NODE_UUID":"AgAIJ/S7H9GkktFwp4EAAA==",
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
     "DESCRIPTION":"",
     "PROP_LABEL":"",
     "DESCRIPTION_XU":"",

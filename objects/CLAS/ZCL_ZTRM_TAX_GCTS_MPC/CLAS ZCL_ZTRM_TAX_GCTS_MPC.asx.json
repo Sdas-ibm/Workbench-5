@@ -17,7 +17,11 @@
    {
     "CLSNAME":"ZCL_ZTRM_TAX_GCTS_MPC",
     "CLSTYPE":0,
+<<<<<<< HEAD
     "UUID":"AgAIJ/S7H9Gkkq0QFqBgAA==",
+=======
+    "UUID":"AgAIJ/S7H9GkktNx6XBgAA==",
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
     "REMOTE":""
    }
   ]
@@ -369,8 +373,13 @@
     "BCMTDCOM":"",
     "BCMTDSYN":0,
     "BCEVTCAT":0,
+<<<<<<< HEAD
     "TYPESRC_LENG":192,
     "TYPESRC":"\r\n  begin of TS_TAXRECORD,\r\n     CONTRACTID type string,\r\n     CUSTOMERID type string,\r\n     CONTRACTOBTYP type string,\r\n     UIN type string,\r\n     TAXTYPE type string,\r\n  end of TS_TAXRECORD"
+=======
+    "TYPESRC_LENG":194,
+    "TYPESRC":"\r\n  begin of TS_TAXRECORD,\r\n     CONTRACTID type string,\r\n     CUSTOMERID type string,\r\n     CONTRACTOBTYP type string,\r\n     BPEXT type string,\r\n     TAXTYPE type string,\r\n  end of TS_TAXRECORD"
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
    },
    {
     "CLSNAME":"ZCL_ZTRM_TAX_GCTS_MPC",

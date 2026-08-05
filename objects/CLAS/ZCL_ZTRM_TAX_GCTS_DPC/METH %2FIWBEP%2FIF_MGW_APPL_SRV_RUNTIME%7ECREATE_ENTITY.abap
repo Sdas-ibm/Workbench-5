@@ -1,7 +1,11 @@
   method /IWBEP/IF_MGW_APPL_SRV_RUNTIME~CREATE_ENTITY.
 *&----------------------------------------------------------------------------------------------*
 *&  Include           /IWBEP/DPC_TEMP_CRT_ENTITY_BASE
+<<<<<<< HEAD
 *&* This class has been generated on 05.08.2026 08:18:02 in client 200
+=======
+*&* This class has been generated on 05.08.2026 08:26:38 in client 200
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
 *&*
 *&*       WARNING--> NEVER MODIFY THIS CLASS <--WARNING
 *&*   If you want to change the DPC implementation, use the

@@ -10,7 +10,11 @@ public section.
      CONTRACTID type string,
      CUSTOMERID type string,
      CONTRACTOBTYP type string,
+<<<<<<< HEAD
      UIN type string,
+=======
+     BPEXT type string,
+>>>>>>> 695c01bad784ba160a8c4f0f471a3a7e3d47a076
      TAXTYPE type string,
   end of TS_TAXRECORD .
   types:
