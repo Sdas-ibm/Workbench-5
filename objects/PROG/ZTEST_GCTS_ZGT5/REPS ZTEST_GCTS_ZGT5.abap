@@ -5,4 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT ztest_gcts_zgt5.
 
-WRITE: / 'New program to test gCTS'.
+WRITE: / 'New program to test gCTS',
+       / 'Changes in Development branch'.
